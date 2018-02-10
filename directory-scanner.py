@@ -1,3 +1,5 @@
+import os
+
 def Scanner(DIR):
 	ReturnList = []
 	for i in os.scandir(DIR):
