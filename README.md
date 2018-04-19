@@ -10,3 +10,4 @@ You can find most if not all or more of these on [my pastebin](https://pastebin.
 * **Number 2 Ordinal:**			turns numbers into ordinals. e.g. **1** becomes **1st**, **1000** becomes **1000th**, etc.
 * **SteamID 2 SteamID64:**			converts SteamID to SteamID64. e.g. **STEAM_1:0:48421251** becomes **76561198057108230**, **STEAM_0:1:0** becomes **76561197960265729**, etc.
 * **Number 2 Pretty String:**			converts a number to a string with commas. e.g. **1000** becomes **1,000**, **10000000** becomes **10,000,000**, etc.
+* **Seconds 2 Pretty String:**			converts a integer of seconds to a string with minutes, hours, days, weeks and years. e.g. **120 seconds** becomes **2 minutes**, **3600** becomes **1 hour**, etc.
